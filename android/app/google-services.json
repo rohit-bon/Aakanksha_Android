@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "130277313770",
+    "project_id": "humanly-60793",
+    "storage_bucket": "humanly-60793.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130277313770:android:7f938583da4af178bf5b93",
+        "android_client_info": {
+          "package_name": "com.santosenoque.txapita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130277313770-2tfo7udgut0qbgehlqd7d714u097ebpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7DAsrmmI25lnqoCUjg5vZpKqhRWxmbNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130277313770-2tfo7udgut0qbgehlqd7d714u097ebpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130277313770:android:2ec7dca875f1e74cbf5b93",
+        "android_client_info": {
+          "package_name": "com.tanmaywankhede07.humanly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130277313770-2tfo7udgut0qbgehlqd7d714u097ebpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7DAsrmmI25lnqoCUjg5vZpKqhRWxmbNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130277313770-2tfo7udgut0qbgehlqd7d714u097ebpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130277313770:android:17d05984f0064685bf5b93",
+        "android_client_info": {
+          "package_name": "com.yhts.humanly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130277313770-2k9h73nnp0at3k310r96qt84pqotmscn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yhts.humanly",
+            "certificate_hash": "9c88ff7c91e5c48737e184f1cc9187a87f51b1e1"
+          }
+        },
+        {
+          "client_id": "130277313770-2tfo7udgut0qbgehlqd7d714u097ebpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7DAsrmmI25lnqoCUjg5vZpKqhRWxmbNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130277313770-2tfo7udgut0qbgehlqd7d714u097ebpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
